@@ -1,4 +1,5 @@
-Flask Application with Docker
+***Flask Application with Docker***
+
 This project is a simple Flask web application that returns "Hello Team" when accessed via a web browser. The application is containerized using Docker, making it easy to deploy and run in different environments. It also includes a .env file for environment configuration and a .gitignore file to avoid committing unnecessary files.
 
 Project Structure
@@ -78,7 +79,8 @@ docker stop <container-id>  # Stop the container
 
 ```
 
-Conclusion
+***Conclusion***
+
 This project demonstrates how to build and containerize a simple Flask web application using Docker. It includes configuration for local development and environment management.
 Feel free to modify the code or the Docker setup to fit your needs.
 
