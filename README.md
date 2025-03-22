@@ -45,7 +45,7 @@ docker run -p 5001:5001 flask-app
 4. Access the Application
 Once the container is running, visit http://localhost:5001/ in your browser. You should see the message:
 
-*** Hello Team ***
+***Hello Team***
 
 requirements.txt
 This file lists the dependencies required to run your Flask application. It typically includes Flask and any other libraries your app depends on.To install dependencies locally or in a Docker container, run:
